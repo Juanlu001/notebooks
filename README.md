@@ -1,4 +1,4 @@
 notebooks
 =========
 
-Notebooks de IPython para Pybonacci.
+Notebooks de IPython para Pybonacci. (por Álex)
